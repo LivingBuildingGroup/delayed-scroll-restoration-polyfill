@@ -1,3 +1,8 @@
+Aug 2023: Was a clone of a library, we currently believe this isn't neccessary anymore and is supported by Next.js
+
+
+___________
+
 # Polyfill that mimics Chrome's scroll restoration behavior
 
 In single page apps that use the history API for navigation, the DOM is
